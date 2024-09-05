@@ -6,10 +6,12 @@
 }
 
 .section1{
-    background-color: blue   
+    background-color: blue;
+    padding: 90px;
 }
   
 .section2{
     background-color: aqua;
+    padding: 80px;
 }
 
