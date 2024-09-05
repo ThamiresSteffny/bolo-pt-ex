@@ -7,11 +7,14 @@
 
 .section1{
     background-color: blue;
-    padding: 90px;
+    padding: 100px;
 }
   
 .section2{
     background-color: aqua;
-    padding: 80px;
+    padding: 100px;
+}
+.cabecalho-imagem{
+    width: 40%;
 }
 
